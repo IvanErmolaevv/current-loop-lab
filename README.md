@@ -1,5 +1,7 @@
 # Лаборатория токового контура
 
+**[Открыть симуляцию в браузере](https://ivanermolaevv.github.io/current-loop-lab/)**
+
 Интерактивная симуляция движения массивного замкнутого контура с током рядом с бесконечным прямым проводом. Нарисуйте контур, задайте токи и массу, затем проследите за его перемещением и вращением в течение выбранного времени. Гравитации нет, масса определяет инерцию.
 
 Приложение работает в браузере, без сборки, установки npm-пакетов и сервера с вычислениями. Исходные файлы сайта находятся в `dist/`.
@@ -88,4 +90,4 @@ git push origin main
 git subtree push --prefix dist origin gh-pages
 ```
 
-Для репозитория `IvanErmolaevv/current-loop-lab` ожидаемый адрес после включения Pages — [ivanermolaevv.github.io/current-loop-lab/](https://ivanermolaevv.github.io/current-loop-lab/). Наличие этой ссылки в README само по себе не подтверждает публикацию сайта.
+Симуляция опубликована по адресу [ivanermolaevv.github.io/current-loop-lab/](https://ivanermolaevv.github.io/current-loop-lab/).
